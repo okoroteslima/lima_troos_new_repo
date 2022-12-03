@@ -1,0 +1,27 @@
+ body{
+    background-color: antiquewhite;
+ }
+ #main{
+    background-color: antiquewhite;
+ }
+ #title{
+    font-family: 'Courier New', Courier, monospace;
+
+    text-align: center;
+ }
+ #img-div{
+    margin-left: 30rem;
+ }
+ #img-caption{
+    font-family: 'Courier New', Courier, monospace;
+ }
+ #tribute-info{
+    font-family: 'Courier New', Courier, monospace;
+
+ }
+#tribute-link{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
